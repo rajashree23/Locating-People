@@ -12,3 +12,9 @@ So, here are some of the snapshots-
 ![image](https://user-images.githubusercontent.com/33730790/145688269-191953a0-4b57-49d8-9e4e-20bcee6ecc78.png)
 
 ![image](https://user-images.githubusercontent.com/33730790/145688285-3e075620-018a-415b-a2a6-da7e6ad77128.png)
+
+
+### Tech Stack
+- Flutter
+- ExpressJS
+- MongoDB
