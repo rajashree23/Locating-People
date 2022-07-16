@@ -1,6 +1,6 @@
 # Locating-People
 Allows us to see nearby users on the google map.
-DISCLAIMER-
+#### DISCLAIMER-
 I am not allowed to upload the source code as it was my internship project at ITC Infotech in 2019.
 
 So, here are some of the snapshots-
